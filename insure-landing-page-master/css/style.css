@@ -51,8 +51,9 @@ button {
 }
 
 hr {
-    border-bottom-color: var(--Very-Light-Gray);
-    opacity: .3;
+    width:50%;
+    text-align:left;
+    margin:0 0 20px 0;
 }
 
 .intro-image > img {
